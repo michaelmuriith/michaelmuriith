@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [michaelwanjiru.co.ke](michaelwanjiru.co.ke)
 
-- 💬 Ask me about **java, c**
+- 💬 Ask me about **java, c, c#**
 
-- 📫 How to reach me **michaelwanjiru@gmail.com**
+- 📫 How to reach me **michaelwanjiru01@gmail.com**
 
 - ⚡ Fun fact **I don't think I can Whisper**
 
